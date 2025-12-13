@@ -18,7 +18,7 @@ Unlike HTML or CSS, YAML doesn’t fail gracefully. There’s no partial render,
 
 That’s exactly what happened to me.
 
-The Error That Looked Bigger Than It Was
+### The Error That Looked Bigger Than It Was
 
 When I ran `jekyll serve`, the terminal exploded with a wall of text. Stack traces. File paths. Ruby internals. It looked serious. But buried in the output was the real clue:
 
@@ -26,12 +26,9 @@ When I ran `jekyll serve`, the terminal exploded with a wall of text. Stack trac
 could not find expected ':' while scanning a simple key at line 24 column 1
 {%endhighlight %}
 
+At first, that line didn’t feel helpful. It sounded abstract and overly technical — especially for something as simple as a config file. But this was the moment where I started learning how to read errors instead of reacting to them. The error wasn’t saying YAML was broken. It was saying my file didn’t match what YAML expects.
 
-At first, that line didn’t feel helpful. It sounded abstract and overly technical — especially for something as simple as a config file. But this was the moment where I started learning how to read errors instead of reacting to them.
-
-The error wasn’t saying YAML was broken. It was saying my file didn’t match what YAML expects.
-
-The Mistake: One Line, One Character
+### The Mistake: One Line, One Character
 
 The issue ended up being small enough to miss entirely while scrolling:
 
