@@ -32,11 +32,11 @@ At first, that line didn’t feel helpful. It sounded abstract and overly techni
 
 The issue ended up being small enough to miss entirely while scrolling:
 
-A key without a colon
+- A key without a colon
 
-A line of plain text that didn’t belong
+- A line of plain text that didn’t belong
 
-Or indentation that didn’t match the rest of the file
+- Or indentation that didn’t match the rest of the file
 
 Any one of those is enough to break YAML parsing.
 
