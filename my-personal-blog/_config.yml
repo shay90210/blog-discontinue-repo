@@ -22,7 +22,7 @@ title: Learning Out Loud
 email: shannon.bentley@brewcity-innovations.com
 description: This blog documents my journey learning software development through hands-on projects, real debugging sessions, and the moments where concepts finally click. Rather than rehashing definitions, I focus on how ideas show up in practice—what I tried, what broke, and what I’m still actively figuring out.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "shay90210.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  shay90210
 
