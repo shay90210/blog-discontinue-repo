@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "YAML Is Simple Until It Isn’t: My First Real Config File Mistake"
+date:   2025-12-13 05:00:00 +0000
+categories: jekyll update
+---
+Stepping away from software engineering wasn’t a decision rooted in failure or burnout. It was a response to timing, priorities, and the realities of a shifting industry. Two years ago, I was actively building my foundation, learning new tools, and preparing to transition fully into a software engineering role. At the same time, I was committed to my current career and balancing responsibilities that required focus and stability. As the tech landscape changed, so did the path forward.
+
+During that period, entry-level opportunities began to narrow. Layoffs rippled across the industry, apprenticeship programs were discontinued, and many of the structured on-ramps I had been aiming for simply disappeared. What once felt like a clear progression into a starting software engineering role slowed down—not because I wasn’t capable, but because the ecosystem itself had shifted. Rather than forcing a transition in an unstable moment, I made the deliberate choice to pause, observe, and recalibrate.
+
+Life, as it often does, added another layer of clarity. In November 2024, I became pregnant, and in July 2025, I gave birth. That season fundamentally reshaped how I thought about time, energy, and long-term goals. Stepping back from the pressure to “keep up” with an industry timeline gave me space to think critically about what I actually wanted my return to look like. Instead of viewing the pause as a setback, I began to see it as an opportunity to return with stronger alignment and purpose.
+
+What surprised me most about stepping away from active technical work was how much I continued to grow outside of it. Distance gave me perspective. I became more confident in my ability to learn without external validation. I learned how to slow down, talk myself through complex problems, and trust that confusion is not a signal to quit—it’s a normal part of the process. That internal dialogue, the ability to stay calm when something doesn’t immediately make sense, is a skill I didn’t fully appreciate before.
+
+Previously, I approached learning with a sense of urgency. I felt pressure to absorb information quickly, to prove I belonged, to keep pace with an industry that rewards speed. During my time away, that mindset shifted. I became more intentional and reflective. I learned how to break problems down methodically, articulate what I do and don’t understand, and persist without panic. Those skills aren’t tied to a specific programming language or framework, but they translate directly into better debugging, clearer reasoning, and more thoughtful engineering decisions.
+
+Returning now feels different because it is different. I’m not coming back to chase momentum; I’m coming back with a plan. Pursuing a master’s degree in software engineering represents a strategic reset, not a restart. It offers access to more advanced problem spaces, deeper theoretical grounding, and structured exposure to modern technologies that are actively shaping the industry. Instead of piecing together fragmented learning paths, I’ll be engaging with complex systems, long-term projects, and current tools in a cohesive way.
+
+This decision is rooted in alignment. I’m entering this next phase with clearer priorities, stronger self-trust, and a better understanding of how I learn best. I’m no longer measuring progress solely by speed or comparison. I’m focused on depth, adaptability, and long-term growth. The pause gave me the maturity to approach software engineering as a craft rather than a race.
+
+The two-year gap isn’t something I feel the need to explain away. It’s part of my story, and it shaped how I show up now. I’m returning with context—life experience, resilience, and a more grounded approach to problem-solving. I understand that careers aren’t linear, especially in an industry that evolves as quickly as this one. What matters isn’t uninterrupted momentum, but the ability to adapt, reflect, and move forward with intention.
