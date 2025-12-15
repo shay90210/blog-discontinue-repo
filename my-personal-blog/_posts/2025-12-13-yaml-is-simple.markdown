@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "YAML Is Simple Until It Isn’t: My First Real Config File Mistake"
-date:   2025-12-13 05:00:00 +0000
+title:  "Why I Stepped Away From Software Engineering — and Why I’m Coming Back Stronger"
+date:   2025-12-14 05:00:00 +0000
 categories: jekyll update
 ---
 Stepping away from software engineering wasn’t a decision rooted in failure or burnout. It was a response to timing, priorities, and the realities of a shifting industry. Two years ago, I was actively building my foundation, learning new tools, and preparing to transition fully into a software engineering role. At the same time, I was committed to my current career and balancing responsibilities that required focus and stability. As the tech landscape changed, so did the path forward.
